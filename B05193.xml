@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act for settling the quiet and peace of the church. Edinburgh, the twelfth day of June, one thousand six hundred ninety three.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05193</idno>
+            <idno type="STC">Wing S1105</idno>
+            <idno type="STC">ESTC R183908</idno>
+            <idno type="EEBO-CITATION">53981712</idno>
+            <idno type="OCLC">ocm 53981712</idno>
+            <idno type="VID">180335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180335)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act for settling the quiet and peace of the church. Edinburgh, the twelfth day of June, one thousand six hundred ninety three.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to their most excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Signed at end: Extracted forth of the records of Parliament by Tarbat, Cls. Regist.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Government --  Early works to 1800.</term>
+               <term>Church and state --  Scotland --  17th century --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180335:1"/>
+            <!-- PDF PAGE 1 -->
+            <head>ACT For Settling the Quiet and Peace of the Church.</head>
+            <opener>
+               <dateline>Edinburgh, <date>
+                     <hi>the Twelfth Day of</hi> June, <hi>One Thouſand ſix hundred ninety three.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>
+               <g ref="char:V">Ʋ</g>R SOVERAIGN LORD and LADY, the King and Queens Majesties, with Advice and Conſent of the Eſtates of Parliament, Ratifie, Approve, and perpetually Confirm the fifth Act of the ſecond Seſſion of this current Parliament, Intituled, <hi>Act Ratifying the Confeſſion of Faith, and ſettling Presbyterian Church-Government,</hi> in the whole Heads, Articles, and Clauſes thereof; And Do further Statute and Ordain, That no perſon be admitted, or continued for hereafter, to be a Miniſter or Preacher, within this Church, unleſs that he having firſt Taken and Subſcribed the Oath of Allegiance, and Subſcribed the Aſſurance in manner appointed by another Act of this preſent Seſſion of Parliament, made thereanent: Do alſo Subſcribe the Con<g ref="char:EOLhyphen"/>feſſion of Faith, Ratified in the foreſaid fifth Act of the ſecond Seſſion of this Parliament, declaring the ſame to be the Confeſſion of his Faith, and that he owns the Doctrine therein contained, to be the true Doctrine which he will conſtantly adhere to: As likewiſe, that he owns and acknowledges Presbyterian Church-Government, as ſettled by the foreſaid fifth Act of the ſecond Seſſion of this Parliament, to be the only Government of this Church, and that he will ſubmit thereto, and concur therewith, and never endeavour, directly or indirectly, the prejudice, or ſubverſion there<g ref="char:EOLhyphen"/>of. And their Majeſties, with Advice and Conſent foreſaid, Statute and Ordain, That <g ref="char:V">Ʋ</g>niformity of Worſhip, and of the adminiſtration of all publick Ordinances within this Church be obſerved by all the ſaids Miniſters and Preachers, as the ſamine are at preſent performed, and allowed therein, or ſhall be hereafter declared by the autho<g ref="char:EOLhyphen"/>rity of the ſame; and that no Miniſter or Preacher be admitted or continued for hereafter, unleſs that he ſubſcribe to obſerve, and do actually obſerve the foreſaid <g ref="char:V">Ʋ</g>niformity: And for the more effectual Settling the Quiet and Peace of this Church, The Eſtates of Parliament do hereby make an humble Addreſs to Their Majeſties, That they would be pleaſed to Call a General Aſſembly, for the ordering the affairs of the Church; and to the end that all the preſent Miniſters poſſeſsing Churches, not yet admitted to the exerciſe of the foreſaid Church-Government, conform to the ſaid Act, and who ſhall qualifie themſelves in manner foreſaid, and ſhall apply to the ſaid Aſſembly, or the other Church Judicatures competent in an orderly way, each man for himſelf, be received to partake with them in the Government thereof: Certifying ſuch as ſhall not qualifie themſelves, and apply to the ſaid Aſſemly, or other Ju<g ref="char:EOLhyphen"/>dicatures within the ſpace of thirty days, after meeting of the ſaid firſt Aſſembly, in manner foreſaid, that they may he Depoſed by the Sentence of the ſaid Aſsembly and other Judicatures <hi>tam ab officio, quam à benefficio;</hi> and withal Declaring, That if any of the ſaids Ministers who hath not been hitherto received into the Government of the Church, ſhall offer to qualifie themſelves, and to apply in manner foreſaid, they ſhall have their Majesties full Pro<g ref="char:EOLhyphen"/>tection, ay and while they ſhall be admitted, and received in manner foreſaid; providing always that this Act, and the benefit thereof, ſhall no ways be extended to ſuch of the ſaids Miniſters as are Scandalous, Erroneous, Negligent, or Inſufficient, and against whom the ſame ſhall be verified within the ſpace of thirty days after the ſaid application; but theſe and all others in like manner guilty, are hereby Declared to be lyable and ſubject to the Power and Conſure of the Church as accords: and to the effect that the Repreſentation of this Church in its General Aſsemblies, may be the more equal in all time coming, Recommends it to the firſt Aſsembly that ſhall be Called, so appoint Ministers to be ſent as Commiſsioners from every Presbytry, not in equal numbers, which is manifeſtly unequal where Presbytries are ſo; but in a due proportion to the Churches and Parochines within every Presbytry, as they ſhall judge convenient; and it is hereby Declared, That all School-maſters, and Teachers of Youth in Schools, are, and ſhall be lyable to the Tryal, Judgment and Cenſure of the Presbytries of the Bound, for their Sufficiency, Qualifications and Deportment in the ſaid Office. And Laſtly, Their Majeſties with advice and conſent foreſaid, Do hereby Statute and Ordain, That the Lords of their Majesties Privy Council, and all other Magiſtrats, Judges and Officers of Justice, give all due aſſiſtance for making the Sentences and Cenſures of the Church, and Judicatures thereof to be obeyed, or otherways effectual as accords.</p>
+            <closer>
+               <signed>Extracted forth of the Records of Parliament, by <hi>TARBAT. Cls. Regiſt.</hi>
+               </signed>
+               <lb/>
+GOD Save King <hi>William</hi> and Queen <hi>Mary.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to their moſt Excellent <hi>Majeſties, Anno Dom.</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
